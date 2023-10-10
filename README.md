@@ -1,5 +1,4 @@
 #ThorProject
-<<<<<<< HEAD
 
 
 Benvenuti nel mio progetto di retrofitting dei fari Thor Hammer 2020 sulla mia Volvo V40 2013 nata con i fari alogeni di serie.
@@ -21,4 +20,3 @@ Ho deciso di mettermi in gioco e scoprire se davvero è così😉
               * Bug: l'anabagliante accente quando in automatico senza input
               * Misurata tensione uscita lampate: 46v
 =======
->>>>>>> refs/remotes/origin/main
