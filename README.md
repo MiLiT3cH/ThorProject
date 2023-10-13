@@ -11,6 +11,8 @@ Ho deciso di mettermi in gioco e scoprire se davvero è così😉
 
 - 13/10/2023: * Aggiunto Schema controller a relè (da provare)
               * Aggiunta Schema ladder per testare la logica del controller relè
+              * Aggiunti Datasheet (mosfet,rectifier)
+              * Aggiornato Schema
 
 - 11/10/2023: * Effettuate misurazioni interne al faro per capire i pin di collegamento del motore livellamento fari
               * Aggiornamento Pinout
