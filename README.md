@@ -24,4 +24,8 @@ Ho deciso di mettermi in gioco e scoprire se davvero è così😉
               * Aggiunta Foto risultato
               * Bug: l'anabagliante accente quando in automatico senza input
               * Misurata tensione uscita lampate: 46v
+
+- 13/11/2023 * Cambio Radicale approccio 
+             * Costruzione e test centralina artigianale
+             * Pinout Aggiornato
 =======
