@@ -1,0 +1,28 @@
+<<<<<<< HEAD
+1 - Posizione +
+2 - Freccia +
+3 - Anabagliante +
+4 - N/C
+5 - N/C
+6 - N/C
+7 - Vcc Motore Livellamento Fari +
+8 - Segnale Motore Livellamento Fari (LINbus data signal)
+9 - Abagliante +
+10 - Negativo
+11 - N/C
+12 - Negativo Motore Fari -
+=======
+1 - Posizione +
+2 - Freccia +
+3 - Anabagliante +
+4 - N/C
+5 - N/C
+6 - N/C
+7 - Vcc Motore Livellamento Fari +
+8 - Segnale Motore Livellamento Fari (LINbus data signal)
+9 - Abagliante +
+10 - Negativo
+11 - N/C
+12 - Negativo Motore Fari -
+>>>>>>> cad38114dd4cd0bf26f4b612f3ed353540b4c1e4
+So, 8 connections in all.
