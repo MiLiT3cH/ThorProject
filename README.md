@@ -28,4 +28,12 @@ Ho deciso di mettermi in gioco e scoprire se davvero è così😉
 - 13/11/2023 * Cambio Radicale approccio 
              * Costruzione e test centralina artigianale
              * Pinout Aggiornato
-=======
+
+- 21/11/2023 * Modifica Assorbimento massimo centraline
+             * Assemplaggio centraline
+             * Primo test completo su macchina
+
+- 18/08/2024 * Ho mollato il progetto per parecchio tempo e l'ho riesumato pochi giorni fa
+			   potrebbero esserci nuove notizie a breve.
+			 * prototipazione nuova scatola da stampare in 3D per ospitare la nuova board
+               
