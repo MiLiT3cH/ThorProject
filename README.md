@@ -43,8 +43,8 @@ Ho deciso di mettermi in gioco e scoprire se davvero è così😉
 			 * prototipazione nuova scatola da stampare in 3D per ospitare la nuova board
 			 
 - 28/09/2024 
-			* una centralina è gia stata realizzata
+			 * una centralina è gia stata realizzata
 			 * fase di Test
-			* inizio progettazione centralina lato sx
+		         * inizio progettazione centralina lato sx
 							
                
