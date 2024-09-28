@@ -1,0 +1,6 @@
+----------[VOLTAGGI FARO]----------------
+
+* Anabagliante = 25v
+* Baffo posizione = 25v
+* freccia = 30v
+* Abagliante = 25v

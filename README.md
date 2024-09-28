@@ -36,4 +36,11 @@ Ho deciso di mettermi in gioco e scoprire se davvero è così😉
 - 18/08/2024 * Ho mollato il progetto per parecchio tempo e l'ho riesumato pochi giorni fa
 			   potrebbero esserci nuove notizie a breve.
 			 * prototipazione nuova scatola da stampare in 3D per ospitare la nuova board
+			 
+- 28/09/2024 * una centralina è gia stata realizzata
+			 * fase di Test:
+				            Banco: successo
+							macchina: fallito (il dissipatore costruito è più grande di 5mm)
+			* inizio progettazione centralina lato sx
+							
                

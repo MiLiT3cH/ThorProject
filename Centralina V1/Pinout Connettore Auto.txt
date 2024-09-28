@@ -1,0 +1,12 @@
+1 - Posizione +
+2 - Freccia +
+3 - Anabagliante +
+4 - N/C
+5 - N/C
+6 - N/C
+7 - Vcc Motore Livellamento Fari +
+8 - Segnale Motore Livellamento Fari (LINbus data signal)
+9 - Abagliante +
+10 - Negativo
+11 - N/C
+12 - Negativo Motore Fari -
