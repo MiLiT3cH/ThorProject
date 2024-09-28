@@ -40,6 +40,7 @@ Ho deciso di mettermi in gioco e scoprire se davvero è così😉
 - 28/09/2024 * una centralina è gia stata realizzata
 			 * fase di Test:
 				            Banco: successo
+							
 							macchina: fallito (il dissipatore costruito è più grande di 5mm)
 			* inizio progettazione centralina lato sx
 							
