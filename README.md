@@ -33,7 +33,8 @@ Ho deciso di mettermi in gioco e scoprire se davvero è così😉
              - Costruzione e test centralina artigianale
              - Pinout Aggiornato
 
-* 21/11/2023 - Modifica Assorbimento massimo centraline
+* 21/11/2023 
+			 - Modifica Assorbimento massimo centraline
              - Assemplaggio centraline
              - Primo test completo su macchina
 
