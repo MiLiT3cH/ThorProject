@@ -4,3 +4,7 @@
 * Baffo posizione = 25v
 * freccia = 30v
 * Abagliante = 25v
+----------[Resistenze]-------------------
+
+* baffo posizione = 162.5 Ohm
+* freccia = ?

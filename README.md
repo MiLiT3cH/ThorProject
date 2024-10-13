@@ -44,3 +44,8 @@ Ho deciso di mettermi in gioco e scoprire se davvero è così. 😉
 - Una centralina è già stata realizzata
 - Fase di test
 - Inizio progettazione centralina lato sinistro
+
+## 13/10/20424
+- centraline V2 completate
+- test montaggio completato 
+- problematica con la resistenza del baffo di posizione (rivedere schede)
