@@ -1,10 +1,6 @@
 ----------[VOLTAGGI FARO]----------------
 
 * Anabagliante = 25v
-* Baffo posizione = 25v
-* freccia = 30v
+* Baffo posizione = 22.33v
+* freccia = 27v.33
 * Abagliante = 25v
-----------[Resistenze]-------------------
-
-* baffo posizione = 162.5 Ohm
-* freccia = ?

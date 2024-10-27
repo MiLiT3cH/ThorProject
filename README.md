@@ -6,6 +6,10 @@ Ho deciso di mettermi in gioco e scoprire se davvero è così. 😉
 
 ## Changelog
 
+### 27/10/2024
+- Ultimi preparativi Schede V2
+- Resoconto Schede V2
+
 ### 13/10/2023:
 - Aggiunto Schema controller a relè (da provare)
 - Aggiunta Schema ladder per testare la logica del controller relè
