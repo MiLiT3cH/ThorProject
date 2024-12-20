@@ -6,6 +6,12 @@ Ho deciso di mettermi in gioco e scoprire se davvero è così. 😉
 
 ## Changelog
 
+### 19/12/2024
+- Risolta la problematica: protezione posizioni durante la freccia
+- Aggiornamento Resoconto
+- Costruzione cablaggio per connettore originale
+- Test Funzionale: superato
+- Aggiornamento Resoconto Schede V2
 ### 27/10/2024
 - Ultimi preparativi Schede V2
 - Resoconto Schede V2
