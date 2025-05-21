@@ -1,0 +1,13 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description,Sim.Pins,Sim.Device,Sim.Params,Indicator,MP
+"C11, C13, C15, C7",4,220uF_50V,CP_Elec_8x10,,,,smt,"220uF, 50V Electrolytic Capacitor",,,,,
+"C12, C14, C16, C8",4,100uF_50V,CP_Elec_8x10,,,,smt,"100uF, 50V Electrolytic Capacitor",,,,,
+"D4, D5, D6, D7",4,SS14,D_SMA,,,,smt,"40V 1A Schottky Diode, SMA",,,,,
+J1,1,Conn_01x06_Pin,JST_PH_B6B-PH-K_1x06_P2.00mm_Vertical,,,,tht,"Generic connector, single row, 01x06, script generated",,,,,
+"J10, J11, J12, J2, J3, J4, J5, J6, J7, J8, J9",11,~,PinHeader_1x01_P1.00mm_Vertical_edit,,,,tht,"Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)",,,,,
+K1,1,Relay_SPDT,Relay_SPDT_Finder_36.11,,,,tht,"Relay SPDT, monostable, EN50005",,,,,
+"L4, L5, L6, L7",4,33UH,L_Neosid_SM-NE127_HandSoldering,,,,smt,Inductor with ferrite core,,,,,
+"R10, R9",2,120Ω,R_Axial_DIN0918_L18.0mm_D9.0mm_P22.86mm_Horizontal,,,,tht,5W Resistor,,,,,
+R11,1,39Ω,R_Axial_DIN0918_L18.0mm_D9.0mm_P22.86mm_Horizontal,,,,tht,5W Resistor,,,,,
+"R12, R14, R16, R7",4,10K,Potentiometer_Bourns_3296W_Vertical,,,,tht,potentiometer with movable/rotating/sliding contact (IEEE zigzag),1=1 2=2 3=3,SPICE,"type=""A"" model=""lin100k"" lib=""R-potentiometer.lib""",●,
+"R13, R15, R17, R8",4,330ohm,R_1206_3216Metric,,,,smt,"330Ω, 1/4W Resistor",,,,,
+"VR4, VR5, VR6, VR7",4,XL6009,DPAK170P1435X465-6N,,,,smt,DCDCstepup,,,,,XL6009

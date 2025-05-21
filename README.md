@@ -4,7 +4,18 @@ Benvenuti nel mio progetto di retrofitting dei fari Thor Hammer 2020 sulla mia V
 In rete si trovano parecchie dicerie su come ciò sia impossibile.  
 Ho deciso di mettermi in gioco e scoprire se davvero è così. 😉
 
-## Changelog
+## Changelog:
+
+### 21/05/2025
+- Resoconto: Dopo la realizzazione del progetto, ha resistito perfettamente per ben 3 Mesi;
+             Di recente si sono guastate le luci anabaglianti.
+- Problema: Durante il teardown di uno dei due fari (si sono guastati entrambi);
+            Ho notato il diodo Led bruciato.
+- Causa: Errore umano... All'interno del faro era presente una ventola di raffreddamento che non è stata cablata;
+         In sintesi: I Led si sono guastati per surriscaldamento
+- Realizzazione PCB V4 
+- Aggiornamento Pinout connettore faro
+- Aggiunto Datasheet led 
 
 ### 19/12/2024
 - Risolta la problematica: protezione posizioni durante la freccia
